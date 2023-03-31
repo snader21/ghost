@@ -1,6 +1,6 @@
 ---
 name: Reporte de error
-about: Crear reporta para mejorar el sistema
+about: Crear reporte para ayudarnos a mejorar el sistema
 title: ''
 labels: bug
 assignees: ''
