@@ -11,7 +11,7 @@ assignees: ''
 Descripción clara y concisa del error.
 
 **Pasos para reproducir el error**
-Steps to reproduce the behavior:
+Indicar los pasos para reproducir el error.
 1. Ir a '...'
 2. Hacer click en '....'
 3. Ir a la sección '....'
